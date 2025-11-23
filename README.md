@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shakti Mishra </h1>
-<h3 align="center">A passionate Web Developer & Full Stack Web Developer</h3>
+<h3 align="center">A Passionate Software Engineer & Full Stack Web Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CodeWithShakti&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWithShakti" />
@@ -13,14 +13,13 @@
 
 <img align="right" width="400px" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" alt="coding gif">
 
-- 🔭 I’m currently working on **Full-stack Web Applications**
-- 🌱 I’m currently learning **Django, Flask, and Advanced JavaScript**
+- 🔭 I’m currently working on **Full-Stack Web Development Python with django**
+- 🌱 I’m currently learning **Django, AI, ML and Html, CSS, JavaScript**
 - 👯 I’m looking to collaborate on exciting web and Python projects
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/CodeWithShakti)
 - 💬 Ask me about **HTML, CSS, JS, React, C, Python, Flask**
 - 📫 How to reach me: **shaktimishra2023@gmail.com**
-- 📄 Know more about my experiences: **N/A**
-- ⚡ Fun fact: **I have completed a 6=-month internship program at Netseems Organization!**
+- 📄 Know more about my experiences: **I have completed a 6- Month Internship Program at Netseems Ventures Pvt Ltd Pune**
 
  
 <h3 align="left">Connect with me:</h3>
@@ -43,6 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWithShakti&show_icons=true&locale=en&layout=compact" alt="Abhinav1901498" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhinav1901498&show_icons=true&locale=en" alt="Abhinav1901498" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shakti&show_icons=true&locale=en" alt="Shakti123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav1901498&" alt="Abhinav1901498" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakti" alt="Shakti123" /></p>
